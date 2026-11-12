@@ -1,4 +1,4 @@
- Digital Electronics Logic Gate Simulator
+🔌 Digital Electronics Logic Gate Simulator
 Explore digital logic by changing an input and watching the circuit respond.
 A local, interactive learning lab for logic gates, Boolean expressions, truth tables, and foundational circuits.
 
@@ -95,4 +95,3 @@ Add printable tables and Boolean-expression simplification.
 Add guided exercises for converting between expressions, diagrams, and tables.
 👤 Author
 Sachin Yadav
-
