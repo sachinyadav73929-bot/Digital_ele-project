@@ -1,3 +1,5 @@
+[@profprabhat7-lang](https://github.com/profprabhat7-lang)
+
 🔌 Digital Electronics Logic Gate Simulator
 Explore digital logic by changing an input and watching the circuit respond.
 A local, interactive learning lab for logic gates, Boolean expressions, truth tables, and foundational circuits.
